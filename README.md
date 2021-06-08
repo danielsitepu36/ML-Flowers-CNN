@@ -13,10 +13,11 @@ Sebuah model kecerdasan artifisial jaringan saraf untuk mengelompokkan citra dig
 2. Citra digital diolah menjadi ukuran 320x240 pixel
 3. Citra digital dikonversi menjadi _grayscale_
 4. Citra digital dibagi menjadi data pembelajaran dan tes dengan rasio 80:20 berdasarkan kategori
-5.
-6.
-7. Model melakukan prediksi pada data tes
-8. Visualisasi akurasi dan _error_ dari prediksi model
+5. Citra digital dimasukkan ke dalam masing-masing folder _testing_, _training_, di dalam tiap kategori kelas
+6. Dilakukan augmentasi dan pembangunan data dengan _ImageDataGenerator_
+7. Pembuatan model dengan data pembelajaran
+8. Model melakukan prediksi pada data tes
+9. Visualisasi akurasi dan _error_ dari prediksi model
 ## Pembuat
 * [Alexius Adhitya K](https://github.com/debugvelop)
 * [Daniel Suranta Sitepu](https://github.com/danielsitepu36)
@@ -24,3 +25,4 @@ Sebuah model kecerdasan artifisial jaringan saraf untuk mengelompokkan citra dig
 ## Referensi
 * [dlaicourse Course 2 Part 4 Lesson 4 - Laurence Moroney](https://github.com/lmoroney/dlaicourse/blob/master/Course%202%20-%20Part%204%20-%20Lesson%204%20-%20Notebook.ipynb)
 * [dlaicourse Course 2 Part 8 Lesson 2 - Laurence Moroney](https://github.com/lmoroney/dlaicourse/blob/master/Course%202%20-%20Part%208%20-%20Lesson%202%20-%20Notebook%20(RockPaperScissors).ipynb)
+* [dlaicourse Course 2 Part 2 Lesson 2 - Laurence Moroney](https://github.com/lmoroney/dlaicourse/blob/master/Course%202%20-%20Part%202%20-%20Lesson%202%20-%20Notebook.ipynb)
