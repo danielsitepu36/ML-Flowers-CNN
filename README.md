@@ -22,5 +22,5 @@ Sebuah model kecerdasan artifisial jaringan saraf untuk mengelompokkan citra dig
 * [Daniel Suranta Sitepu](https://github.com/danielsitepu36)
 * [Fransiskus Rian Wardana Putra](https://github.com/RianWardanaPutra)
 ## Referensi
-* https://github.com/lmoroney/dlaicourse/blob/master/Course%202%20-%20Part%204%20-%20Lesson%204%20-%20Notebook.ipynb
-* https://github.com/lmoroney/dlaicourse/blob/master/Course%202%20-%20Part%208%20-%20Lesson%202%20-%20Notebook%20(RockPaperScissors).ipynb
+* [dlaicourse Course 2 Part 4 Lesson 4 - Laurence Moroney](https://github.com/lmoroney/dlaicourse/blob/master/Course%202%20-%20Part%204%20-%20Lesson%204%20-%20Notebook.ipynb)
+* [dlaicourse Course 2 Part 8 Lesson 2 - Laurence Moroney](https://github.com/lmoroney/dlaicourse/blob/master/Course%202%20-%20Part%208%20-%20Lesson%202%20-%20Notebook%20(RockPaperScissors).ipynb)
